@@ -1,0 +1,49 @@
+
+
+
+
+	 
+
+	 /* display: inline-block; */
+
+/* .col-3{ */
+	 /* width: calc(100% * 3 / 12); */
+/* } */
+
+	 /* display: inline-block; */
+
+/* .col-9{ */
+	 /* width: calc(100% * 9 / 12); */
+/* } */
+/* .col-12{ */
+	 /* width: calc(100% * 12 / 12); */
+/* } */
+.mb-70{
+	 margin-bottom: 70px;
+}
+.mb-80{
+	 margin-bottom: 80px;
+}
+.col-1{
+	 width: calc(100% * 1 / 12);
+}
+.col-4{
+	 width: calc(100% * 4 / 12);
+}
+.col-9{
+	 width: calc(100% * 9 / 12);
+}
+.col-10{
+	 width: calc(100% * 10 / 12);
+}
+.px-30{
+	 padding: 0 30px;
+}
+.mb-130{
+	 margin-bottom: 130px;
+}
+.px-30{
+	 padding: 0 30px;
+}
+/* <input type="text" name="search" placeholder="enter your email to update" class="search"> */
+			/* <button type="submit" class="btn">submit</button> */
